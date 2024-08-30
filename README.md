@@ -3,7 +3,7 @@
 * gmail
 * social accounts
 * domain
-* html
+* [HTML](./html.md)
 * css
 * JS
 * static web page
