@@ -4,7 +4,7 @@
 * social accounts
 * domain
 * [HTML](./html.md)
-* css
+* [CSS](./CSS.md)
 * JS
 * static web page
 * responsive web page 
